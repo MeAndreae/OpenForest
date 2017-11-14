@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="560"
+   height="280"
+   viewBox="0 0 560.00001 280"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   inkscape:export-filename="/Users/merlin/Documents/7-openForest/openScribus/scribus-splash.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="openScribus.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient24956"
+       id="linearGradient24962"
+       x1="1335.111"
+       y1="435.70966"
+       x2="1363.4927"
+       y2="526.21936"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.3086891,0,0,0.3086891,-9.4891526,1028.4749)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient24956">
+      <stop
+         style="stop-color:#0099ff;stop-opacity:1;"
+         offset="0"
+         id="stop24958" />
+      <stop
+         style="stop-color:#0099ff;stop-opacity:0;"
+         offset="1"
+         id="stop24960" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.3086891,0,0,0.3086891,337.74645,1029.1921)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient24857"
+       id="linearGradient24855-5"
+       x1="287.12299"
+       y1="268.61011"
+       x2="390.34402"
+       y2="297.60147"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient24857"
+       inkscape:collect="always">
+      <stop
+         id="stop24859"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1" />
+      <stop
+         id="stop24861"
+         offset="1"
+         style="stop-color:#002b3b;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4470"
+       id="radialGradient4478-2"
+       cx="221.1973"
+       cy="370.98492"
+       fx="221.1973"
+       fy="370.98492"
+       r="94.242821"
+       gradientTransform="matrix(0.4615663,0.16385481,-0.23615515,0.66523075,396.94487,857.24433)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4470">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop4472" />
+      <stop
+         style="stop-color:#b16200;stop-opacity:1"
+         offset="1"
+         id="stop4474" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect24869-5"
+       is_visible="true"
+       offset_points="0.022249614,1.0656791 | 0.49854544,0.73652701 | 0.98204019,0.57578961"
+       sort_points="true"
+       interpolator_type="Linear"
+       interpolator_beta="0.75"
+       start_linecap_type="zerowidth"
+       linejoin_type="round"
+       miter_limit="100"
+       end_linecap_type="round" />
+    <inkscape:path-effect
+       effect="envelope"
+       id="path-effect4466-4"
+       is_visible="true"
+       yy="true"
+       xx="true"
+       bendpath1="m 414.11101,1110.4077 17.74641,-2.2688"
+       bendpath2="m 433.51338,1106.1588 -0.71683,28.5571"
+       bendpath3="m 414.55722,1140.8797 17.66103,-4.1043"
+       bendpath4="m 414.1599,1107.8058 -0.97221,32.5748"
+       bendpath1-nodetypes="cc"
+       bendpath3-nodetypes="cc"
+       bendpath2-nodetypes="cc"
+       bendpath4-nodetypes="cc" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient24857"
+       id="linearGradient5609"
+       x1="97.022964"
+       y1="1207.334"
+       x2="531.00397"
+       y2="1207.334"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter6387">
+      <feFlood
+         flood-opacity="0.4"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood6389" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite6391" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="5"
+         result="blur"
+         id="feGaussianBlur6393" />
+      <feOffset
+         dx="-5"
+         dy="-5"
+         result="offset"
+         id="feOffset6395" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite6397" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="228.96516"
+     inkscape:cy="-126.75687"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1280"
+     inkscape:window-height="751"
+     inkscape:window-x="21"
+     inkscape:window-y="249"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-772.36216)">
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f7f5f2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5611"
+       width="559.62451"
+       height="284.86301"
+       x="2.0203052"
+       y="773.56006" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5629-3"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(170,762.36216)"><flowRegion
+         id="flowRegion5631-3"><rect
+           id="rect5633-9"
+           width="152.85713"
+           height="651.42859"
+           x="34.285713"
+           y="132.14285" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara6035">Prince, which both certifies the licence that is granted for travelling, and limits the time of their return. They are furnished with a waggon and a slave, who drives the oxen and looks after them; but, unless there are women in the company, the waggon is sent back at  the end of the journey as a needless encumbrance. While they are on the road they carry no provisions with them,  yet  they  want  for  nothing,  but  are  everywhere  treated  as  if  they  were  at  home.  If  they  stay  in  any  place  longer   than   a   night,   every   one   follows   his   proper   occupation,  and  is  very  well  used  by  those  of  his  own  trade;  but  if  any  man  goes  out  of  the  city  to  which  he  belongs  without  leave,  and  is  found  rambling  without  a  passport, he is severely treated, he is punished as a fugitive, and sent home disgracefully; and, if he falls again into the Utopia 92 of 183 like fault, is condemned to slavery. If any man has a mind to  travel  only  over  the  precinct  of  his  own  city,  he  may  freely  do  it,  with  his  father’s  permission  and  his  wife’s  consent;  but  when  he  comes  into  any  of  the  country  houses,  if  he  expects  to  be  entertained  by  them,  he  must  labour  with  them  and  conform  to  their  rules;  and  if  he  does this, he may freely go over the whole precinct, being then as useful to the city to which he belongs as if he were still within it. Thus you see that there are no idle persons among  them,  nor  pretences  of  excusing  any  from  labour.  There  are  no  taverns,  no  alehouses,  nor  stews  among  them, nor any other occasions of corrupting each other, of getting into corners, or forming themselves into parties; all men  live  in  full  view,  so  that  all  are  obliged  both  to  perform their ordinary task and to employ themselves well in  their  spare  hours;  and  it  is  certain  that  a  people  thus  ordered  must  live  in  great  abundance  of  all  things,  and  these  being  equally  distributed  among  them,  no  man  can  want or be obliged to beg. </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5651-3" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5653-9" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5655-7" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5657-7" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5659-5" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5661-6" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5663-3" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5665-8" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5667-7" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5669-2" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5671-4" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5673-1" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5675-4" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5677-3" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5679-0" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5681-0" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5683-4" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5685-6" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5687-3" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5689-0" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5691-3" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5693-4" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5695-4" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5697-5" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5699-4" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5701-9" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5703-3" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5705-8" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5707-0" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5709-2" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5711-4" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5713-3" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5715-3" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5717-6" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5719-1" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5721-8" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5723-8" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5725-9" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5727-7" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5729-7" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5731-9" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5733-8" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5735-3" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5737-3" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5739-7" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5741-9" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5743-1" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5745-9" /></flowRoot>    <g
+       id="g5580"
+       transform="translate(375.71429,207.14286)">
+      <path
+         sodipodi:nodetypes="sccsss"
+         inkscape:connector-curvature="0"
+         id="path24952"
+         d="m 467.2849,1167.4751 c 0,8.3856 -3.60524,16.0506 -9.56159,21.9216 -19.03244,-13.6928 -43.87722,14.3279 -58.90359,0.1433 -6.04345,-5.8893 -9.70777,-13.6109 -9.70777,-22.0649 0,-18.475 17.49958,-33.4519 39.08646,-33.4519 21.58684,0 39.08649,14.9769 39.08649,33.4519 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient24962);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         style="fill:#b06100;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 432.63158,1152.2487 0.005,0.034 c -4.76424,0.4543 -4.36749,5.8596 -4.36749,5.8596 0,0 1.58793,-1.8314 5.19527,-1.9528 5.73909,0 1.95885,-3.7646 2.00793,-3.7223 -0.0936,0 -2.36394,-0.2126 -2.45408,-0.2092 -0.12872,0 -0.25179,-0.01 -0.38647,-0.01 z"
+         id="path24881-1" />
+      <path
+         id="path24876-9"
+         d="m 438.80536,1152.2487 0.005,0.034 c -4.76424,0.4543 -4.36748,5.8596 -4.36748,5.8596 0,0 1.58792,-1.8314 5.19526,-1.9528 3.61509,0.1239 4.29995,2.4985 4.29995,2.4985 0,0 0.29227,-0.5843 0.47751,-1.3952 1.28656,0.6707 2.03241,1.3952 2.03241,1.3952 0,0 1.41892,-6.4391 -6.98471,-6.4391 -0.0936,0 -0.18117,0.01 -0.2713,0.01 -0.12873,0 -0.2518,-0.01 -0.38648,-0.01 z"
+         style="fill:#b06100;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:url(#linearGradient24855-5);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 432.05403,1089.9496 c 3.23086,-0.8657 4.69624,-7.5027 4.69624,-11.7123 0,-4.2096 5.82224,-9.5106 14.96753,-9.5106 9.14528,0 15.27931,5.5828 15.27931,9.5106 0,3.9278 1.19379,21.8439 -1.5591,32.1178 -2.75289,10.2739 -6.0111,19.7675 -9.04286,23.323 l -0.86779,-0.6961 c 0,0 0.46933,1.3244 -0.3102,2.8836 l -0.82997,-0.884 c 0,0 0.33857,1.4698 -0.40201,2.1324 l -0.58107,-0.556 c 0,0 -3.14623,2.927 -4.53171,8.0976 -1.38546,5.1707 -6.04158,10.7579 -9.31572,10.7579 -3.27414,0 -4.75529,-1.2473 -4.75529,-1.2473 0,0 -1.67606,1.3253 -4.05371,1.3253 -2.37764,0 -4.20962,-1.8709 -4.20962,-1.8709 z"
+         id="path6074-3"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cszzscccccczzczc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4225-3"
+         d="m 445.82977,1073.7382 a 6.6208012,6.6208012 0 0 0 -6.62052,6.6205 6.6208012,6.6208012 0 0 0 6.62052,6.6211 6.6208012,6.6208012 0 0 0 5.96517,-3.7669 6.6208012,6.6208012 0 0 0 5.96699,3.7669 6.6208012,6.6208012 0 0 0 6.62055,-6.6211 6.6208012,6.6208012 0 0 0 -6.62055,-6.6205 6.6208012,6.6208012 0 0 0 -5.96517,3.7663 6.6208012,6.6208012 0 0 0 -5.96699,-3.7663 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#333333;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <g
+         style="fill:#333333;fill-opacity:1;stroke:none"
+         transform="matrix(0.3086891,0,0,0.3086891,338.03387,1029.1921)"
+         id="g24871-3">
+        <path
+           style="fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 368.53203,169.00617 c -7.56466,0 -6.02984,13.12075 -6.02984,13.12075 l 6.02984,12.42311 6.03107,-12.42311 c 0,0 1.53359,-13.12075 -6.03107,-13.12075 z"
+           id="path4244-3"
+           inkscape:connector-curvature="0" />
+        <path
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           d="m 350.47607,158.9693 a 6.7857141,6.7857141 0 0 0 -6.78515,6.78516 6.7857141,6.7857141 0 0 0 6.78515,6.78711 6.7857141,6.7857141 0 0 0 6.78516,-6.78711 6.7857141,6.7857141 0 0 0 -6.78516,-6.78516 z"
+           id="path4262-1"
+           inkscape:connector-curvature="0" />
+        <path
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           d="m 386.58902,158.9693 a 6.7857141,6.7857141 0 0 0 -6.78515,6.78516 6.7857141,6.7857141 0 0 0 6.78515,6.78711 6.7857141,6.7857141 0 0 0 6.78516,-6.78711 6.7857141,6.7857141 0 0 0 -6.78516,-6.78516 z"
+           id="path4262-8-8"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         sodipodi:nodetypes="cssssczsc"
+         inkscape:connector-curvature="0"
+         id="path4295-7"
+         d="m 453.94585,1110.2907 c 0,0 5.44386,-3.2076 6.50452,-7.166 1.06065,-3.9584 -1.67665,-9.4171 -16.31641,-13.3398 -14.63977,-3.9227 -18.02328,5.9391 -18.41112,7.3865 -0.38783,1.4474 -7.49673,12.0168 -14.5525,29.4357 -7.05573,17.4189 -8.37868,54.4616 -8.37868,54.4616 0,0 16.59654,-16.5965 22.04923,-22.0492 5.45268,-5.4527 22.42296,-18.7636 27.12053,-26.9001 4.69757,-8.1364 4.5201,-23.7029 4.5201,-23.7029"
+         style="fill:url(#radialGradient4478-2);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:original-d="m 402.90189,1180.9584 c 12.97538,-42.8305 17.75947,-52.7402 25.771,-71.175"
+         inkscape:path-effect="#path-effect24869-5"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4297-3"
+         d="m 402.90189,1180.9584 c 0.62866,-0.85 1.2531,-1.6831 1.87342,-2.4997 5.89953,-19.7285 9.99871,-32.2003 13.52867,-41.8867 3.63873,-9.8161 6.69603,-16.7758 10.46823,-25.5735 0.14191,-0.3259 0.28481,-0.6544 0.42876,-0.9856 a 0.57578961,0.57578961 90 0 0 -1.05616,-0.459 c -0.14382,0.331 -0.28661,0.6592 -0.42844,0.9849 -3.86654,8.7459 -7.03427,15.6904 -10.78938,25.5113 -3.75329,9.6566 -8.07183,22.0926 -14.19041,41.7871 0.0589,1.025 0.11404,2.0652 0.16531,3.1212 z"
+         style="fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:original-d="m 431.27363,1109.2303 c -1.27588,-0.5695 -3.70103,-1.7627 -4.13656,-0.8086 -0.43556,0.954 2.14974,5.1457 2.14974,5.1457 0,0 4.87109,-0.7948 5.33393,-1.8051 0.4368,-0.9535 -2.07124,-1.9624 -3.34711,-2.532 z m -2.07464,4.2979 a 1.3692773,1.3510239 1.108481 0 0 -1.81179,0.6734 1.3692773,1.3510239 1.108481 0 0 0.68409,1.7883 1.3692773,1.3510239 1.108481 0 0 1.81145,-0.6743 1.3692773,1.3510239 1.108481 0 0 -0.68375,-1.7874 z m -1.1277,2.4617 c 0,0 -0.84921,-0.087 -1.76472,-0.1127 -0.91554,-0.026 -1.59968,-0.1603 -1.97061,0.6494 0,0 -0.003,0.01 -0.005,0.012 -0.003,0 -0.004,0.01 -0.006,0.011 -0.37095,0.8098 0.18324,1.228 0.8075,1.8896 0.62429,0.6615 1.25121,1.2336 1.25121,1.2336 0,0 0.84861,0.087 1.76412,0.1124 0.91551,0.026 1.60028,0.1606 1.9712,-0.6492 0.003,0 0.003,-0.01 0.004,-0.012 0.003,0 0.004,-0.01 0.006,-0.011 0.37095,-0.8097 -0.18383,-1.2282 -0.80812,-1.8897 -0.62426,-0.6616 -1.25059,-1.2334 -1.25059,-1.2334 z m -1.68686,3.6823 a 1.3692773,1.3510239 1.108481 0 0 -1.81207,0.674 1.3692773,1.3510239 1.108481 0 0 0.68433,1.7877 1.3692773,1.3510239 1.108481 0 0 1.8112,-0.6737 1.3692773,1.3510239 1.108481 0 0 -0.68346,-1.788 z m -1.12774,2.4617 -2.89044,-1.2903 c -0.49245,-0.2198 -1.03914,-0.069 -1.22568,0.3381 -0.18654,0.4072 0.0599,0.912 0.55234,1.1318 l -0.7528,-0.3361 c -0.73867,-0.3297 -1.577,-0.062 -1.88017,0.5997 -0.3031,0.6617 0.0473,1.4593 0.78596,1.789 l 0.51319,0.2291 c -0.41404,-0.081 -0.8175,0.077 -0.97234,0.4149 -0.18651,0.4073 0.0599,0.912 0.55234,1.1318 l 2.89047,1.2903 2.88927,1.2897 c 0.49245,0.2198 1.03911,0.069 1.22565,-0.3381 0.15481,-0.3379 0.009,-0.7408 -0.32591,-0.9945 l 0.51261,0.2288 c 0.73866,0.3298 1.57737,0.063 1.8805,-0.5987 0.30313,-0.6618 -0.0476,-1.4602 -0.78626,-1.7899 l -0.75277,-0.336 c 0.49242,0.2198 1.03911,0.069 1.22565,-0.3381 0.18654,-0.4072 -0.0599,-0.912 -0.55234,-1.1318 l -2.88927,-1.2897 z m -2.42713,5.2983 a 1.3692773,1.3510239 1.108481 0 0 -1.81207,0.674 1.3692773,1.3510239 1.108481 0 0 0.68434,1.7877 1.3692773,1.3510239 1.108481 0 0 1.8112,-0.6737 1.3692773,1.3510239 1.108481 0 0 -0.68347,-1.788 z m -1.12773,2.4617 c 0,0 -0.84918,-0.087 -1.76472,-0.1127 -0.91551,-0.026 -1.59965,-0.1603 -1.97061,0.6494 0,0 -0.003,0.01 -0.005,0.012 0,0 -0.004,0.01 -0.006,0.011 -0.37092,0.8098 0.18327,1.228 0.80753,1.8895 0.62429,0.6616 1.25121,1.2337 1.25121,1.2337 0,0 0.84858,0.087 1.76413,0.1123 0.91551,0.026 1.60027,0.1606 1.97119,-0.6491 0,0 0.003,-0.01 0.004,-0.012 0,0 0.004,-0.01 0.006,-0.011 0.37095,-0.8097 -0.18386,-1.2282 -0.80812,-1.8898 -0.62429,-0.6615 -1.25062,-1.2333 -1.25062,-1.2333 z m -1.68711,3.6829 a 1.3692773,1.3510239 1.108481 0 0 -1.81179,0.6734 1.3692773,1.3510239 1.108481 0 0 0.68409,1.7883 1.3692773,1.3510239 1.108481 0 0 1.81144,-0.6743 1.3692773,1.3510239 1.108481 0 0 -0.68374,-1.7874 z m -1.03988,2.5009 c 0,0 -4.8959,0.8521 -5.33393,1.8051 -0.438,0.9529 2.07124,1.9624 3.34711,2.5319 1.27588,0.5696 3.69973,1.7622 4.13653,0.8087 0.46285,-1.0103 -2.14971,-5.1457 -2.14971,-5.1457 z"
+         inkscape:path-effect="#path-effect4466-4"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 428.92769,1108.1697 c -1.22608,-0.1424 -3.3229,-0.5633 -3.70878,0.1883 -0.43083,0.8392 1.90178,3.5934 1.90178,3.5934 0,0 1.12161,-0.4057 2.36729,-0.9763 1.23343,-0.565 2.61434,-1.2993 2.83289,-1.7485 0.39282,-0.8074 -2.24239,-0.9231 -3.39318,-1.0569 z m -1.889,3.7687 c -0.64179,-0.1025 -1.37147,0.282 -1.6451,0.8757 -0.27363,0.5939 0.002,1.1982 0.63758,1.3164 0.63413,0.118 1.39433,-0.3004 1.67849,-0.9168 0.28389,-0.6159 -0.0283,-1.1727 -0.67097,-1.2753 z m -1.00752,2.1921 c 0,0 -0.78113,0.092 -1.59183,0.2144 -0.81111,0.1217 -1.40519,0.094 -1.725,0.8062 0,0 -0.003,0.01 -0.004,0.011 -0.003,3e-4 -0.003,0.01 -0.005,0.01 -0.32117,0.7156 0.15813,1.0037 0.70863,1.47 0.5512,0.4668 1.11714,0.8434 1.11714,0.8434 0,0 0.76039,-0.071 1.61124,-0.2374 0.84981,-0.1661 1.51162,-0.22 1.86034,-0.981 0.003,-7e-4 0.003,-0.01 0.004,-0.011 0.003,-8e-4 0.004,-0.01 0.006,-0.011 0.34752,-0.7581 -0.20023,-0.9624 -0.80097,-1.3664 -0.60036,-0.4038 -1.18032,-0.748 -1.18032,-0.748 0,0 9.2e-4,-2e-4 9.2e-4,-2e-4 z m -1.4999,3.3537 c -0.62084,-0.1422 -1.33486,0.2317 -1.6062,0.855 -0.2713,0.6232 -0.007,1.2832 0.60355,1.4401 0.60993,0.1566 1.34411,-0.2534 1.62807,-0.8979 0.28403,-0.6447 -0.004,-1.2547 -0.62542,-1.3972 z m -1.00265,2.2951 c -0.85373,-0.2195 -1.69225,-0.4685 -2.51817,-0.7458 -0.42214,-0.1417 -0.89066,0.035 -1.0522,0.4067 -0.16157,0.3722 0.0445,0.8029 0.46648,0.9504 -0.21484,-0.075 -0.42923,-0.1523 -0.6432,-0.2313 -0.62831,-0.2322 -1.34769,0.05 -1.61391,0.6614 -0.26643,0.6121 0.0223,1.3279 0.65468,1.572 0.14616,0.056 0.29239,0.1119 0.43868,0.1666 -0.35486,-0.038 -0.70356,0.1353 -0.84081,0.4568 -0.16522,0.3872 0.0403,0.8371 0.46308,0.9959 0.82526,0.3098 1.65438,0.5941 2.48824,0.8514 0.83351,0.2571 1.6776,0.4891 2.53284,0.6932 0.43722,0.1043 0.93233,-0.1473 1.10643,-0.5562 0.14439,-0.3392 0.015,-0.6677 -0.28629,-0.8269 0.15403,0.033 0.30864,0.066 0.46381,0.098 0.66855,0.1363 1.456,-0.3051 1.75228,-0.972 0.29622,-0.6667 -0.0327,-1.2701 -0.72224,-1.3916 -0.2334,-0.041 -0.46524,-0.084 -0.69555,-0.1295 0.45111,0.089 0.96441,-0.1695 1.14296,-0.5697 0.17853,-0.4002 -0.0544,-0.7754 -0.51392,-0.8578 -0.89612,-0.1606 -1.76984,-0.3519 -2.62319,-0.5712 z m -2.15713,5.0841 c -0.59642,-0.1843 -1.30145,0.1875 -1.57571,0.8518 -0.27443,0.6648 -0.0161,1.3801 0.58121,1.5734 0.59633,0.193 1.30172,-0.2127 1.57842,-0.8889 0.27697,-0.6768 0.0131,-1.3519 -0.58392,-1.5363 z m -0.9945,2.4252 c 0,0 -0.73579,0.034 -1.52992,0.1122 -0.79357,0.078 -1.39333,0.01 -1.72645,0.8167 0,0 -0.003,0.01 -0.005,0.012 0,0 -0.004,0.01 -0.005,0.011 -0.3345,0.81 0.15338,1.1606 0.70287,1.7204 0.55013,0.5606 1.10388,1.0198 1.10388,1.0198 0,0 0.74223,-0.03 1.53616,-0.1458 0.79643,-0.1156 1.38738,-0.1091 1.70551,-0.9322 0,0 0.003,-0.01 0.003,-0.012 0,0 0.003,-0.01 0.005,-0.011 0.31813,-0.8226 -0.16472,-1.1085 -0.70866,-1.6266 -0.5421,-0.5162 -1.08293,-0.9641 -1.08293,-0.9641 0,0 8.7e-4,-10e-5 8.7e-4,-10e-5 z m -1.45909,3.692 c -0.60248,-0.1996 -1.31809,0.1818 -1.58686,0.8744 -0.26926,0.6938 0.0216,1.4262 0.64535,1.6274 0.62283,0.2009 1.31759,-0.2095 1.5707,-0.9003 0.25332,-0.6915 -0.0261,-1.4018 -0.62919,-1.6015 z m -0.86251,2.5273 c 0,0 -1.07303,0.37 -2.23831,0.8585 -1.15436,0.4838 -2.45183,1.1121 -2.65384,1.6164 -0.40719,1.0165 2.14377,1.6305 3.35059,1.9711 1.2636,0.3568 3.51068,1.0821 3.78091,0.1109 0.26939,-0.9682 -2.23935,-4.5569 -2.23935,-4.5569 z"
+         id="path4464-8"
+         inkscape:connector-curvature="0" />
+      <rect
+         transform="scale(1,-1)"
+         y="-1193.6704"
+         x="374.98718"
+         height="124.94377"
+         width="124.94377"
+         id="rect24978"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4136"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.2392019,0,0,1.2392019,-66.14652,599.19196)"><flowRegion
+         id="flowRegion4138"><rect
+           id="rect4140"
+           width="342.58316"
+           height="179.3952"
+           x="80.812202"
+           y="145.6497"
+           style="text-align:start;text-anchor:start;fill:#1a1a1a;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4142"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60.52282333px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Scribus<flowSpan
+   style="font-size:14.12199211px;text-align:start;baseline-shift:super;text-anchor:start;fill:#000000;fill-opacity:1"
+   id="flowSpan5478"> 1.4.6</flowSpan></flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.08713754px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;line-height:60%"
+         id="flowPara5482">Open Source desktop publishing</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4136-0"
+       style="font-style:normal;font-weight:normal;font-size:49.56807709px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(97.605533,370.20282)"><flowRegion
+         id="flowRegion4138-7"><rect
+           id="rect4140-0"
+           width="194.35278"
+           height="148.00883"
+           x="-2.6627152"
+           y="744.40979" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:'Linux Biolinum';-inkscape-font-specification:'Linux Biolinum';text-align:start;text-anchor:start;fill:#1a1a1a;fill-opacity:1"
+         id="flowPara5343">Open Source desktop publishing</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5629"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(0,762.36216)"><flowRegion
+         id="flowRegion5631"><rect
+           id="rect5633"
+           width="152.85713"
+           height="651.42859"
+           x="34.285713"
+           y="132.14285" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5649">If any man has a mind to visit his friends that live in some other town, or desires to travel and see the rest of the country, he obtains leave very easily from the Syphogrant  and  Tranibors,  when  there  is  no  particular  occasion for him at home. Such as travel carry with them a passport  from  the  Prince,  which  both  certifies  the  licence  that  is  granted  for  travelling,  and  limits  the  time  of  their  return.  They  are  furnished  with  a  waggon  and  a  slave,  who  drives  the  oxen  and  looks  after  them;  but,  unless  there are women in the company, the waggon is sent back at  the  end  of  the  journey  as  a  needless  encumbrance.  While they are on the road they carry no provisions with them,  yet  they  want  for  nothing,  but  are  everywhere  treated  as  if  they  were  at  home.  If  they  stay  in  any  place  longer   than   a   night,   every   one   follows   his   proper   occupation,  and  is  very  well  used  by  those  of  his  own  trade;  but  if  any  man  goes  out  of  the  city  to  which  he  belongs  without  leave,  and  is  found  rambling  without  a  passport, he is severely treated, he is punished as a fugitive, and sent home disgracefully; and, if he falls again into the Utopia 92 of 183 like fault, is condemned to slavery. If any man has a mind to  travel  only  over  the  precinct  of  his  own  city,  he  may  freely  do  it,  with  his  father’s  permission  and  his  wife’s  consent;  but  when  he  comes  into  any  of  the  country  houses,  if  he  expects  to  be  entertained  by  them,  he  must  labour  with  them  and  conform  to  their  rules;  and  if  he  does this, he may freely go over the whole precinct, being then as useful to the city to which he belongs as if he were still within it. Thus you see that there are no idle persons among  them,  nor  pretences  of  excusing  any  from  labour.  There  are  no  taverns,  no  alehouses,  nor  stews  among  them, nor any other occasions of corrupting each other, of getting into corners, or forming themselves into parties; all men  live  in  full  view,  so  that  all  are  obliged  both  to  perform their ordinary task and to employ themselves well in  their  spare  hours;  and  it  is  certain  that  a  people  thus  ordered  must  live  in  great  abundance  of  all  things,  and  these  being  equally  distributed  among  them,  no  man  can  want or be obliged to beg. </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5651" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5653" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5655" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5657" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5659" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5661" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5663" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5665" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5667" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5669" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5671" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5673" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5675" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5677" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5679" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5681" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5683" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5685" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5687" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5689" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5691" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5693" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5695" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5697" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5699" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5701" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5703" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5705" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5707" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5709" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5711" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5713" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5715" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5717" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5719" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5721" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5723" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5725" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5727" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5729" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5731" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5733" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5735" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5737" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5739" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5741" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5743" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:justify;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5745" /></flowRoot>    <g
+       id="g5613"
+       transform="translate(0,-4)"
+       style="filter:url(#filter6387)">
+      <path
+         style="fill:url(#linearGradient5609);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 233.53949,1020.615 c 27.30253,-7.2946 39.68581,-63.21867 39.68581,-98.68945 0,-35.47097 49.2011,-80.13785 126.4838,-80.13785 77.28262,0 129.11852,47.04152 129.11852,80.13785 0,33.09614 10.08818,184.05965 -13.17525,270.62905 -23.26342,86.5694 -50.79708,166.5638 -76.41711,196.5227 l -7.33331,-5.8653 c 0,0 3.96612,11.1596 -2.62136,24.2977 l -7.0137,-7.4489 c 0,0 2.8611,12.3849 -3.3972,17.9679 l -4.91035,-4.6849 c 0,0 -26.58736,24.6633 -38.29542,68.2315 -11.70789,43.569 -51.05466,90.6476 -78.72292,90.6476 -27.66828,0 -40.18483,-10.51 -40.18483,-10.51 0,0 -14.16359,11.1673 -34.25604,11.1673 -20.09238,0 -125.477167,-300.6276 -125.477167,-300.6276 0,0 11.350627,-137.5521 49.689267,-192.5077 38.33864,-54.9556 86.82726,-59.1299 86.82726,-59.1299 z"
+         id="path6074-3-6"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cszzscccccczzczczc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4225-3-0"
+         d="m 349.95208,884.01537 a 55.949389,55.787786 0 0 0 -55.94701,55.78553 55.949389,55.787786 0 0 0 55.94701,55.79036 55.949389,55.787786 0 0 0 50.40895,-31.74044 55.949389,55.787786 0 0 0 50.42432,31.74044 55.949389,55.787786 0 0 0 55.94726,-55.79036 55.949389,55.787786 0 0 0 -55.94726,-55.78553 55.949389,55.787786 0 0 0 -50.40895,31.73562 55.949389,55.787786 0 0 0 -50.42432,-31.73562 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#333333;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <g
+         style="fill:#333333;fill-opacity:1;stroke:none"
+         transform="matrix(1.6829998,0,0,1.6809867,-213.92999,602.26069)"
+         id="g24871-3-0">
+        <path
+           style="fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 365.0014,205.83012 c -11.72496,0 -9.34604,20.30226 -9.34604,20.30226 l 9.34604,19.22276 9.34795,-19.22276 c 0,0 2.37702,-20.30226 -9.34795,-20.30226 z"
+           id="path4244-3-6"
+           inkscape:connector-curvature="0" />
+        <path
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           d="m 337.01529,190.29968 a 10.517622,10.499802 0 0 0 -10.51675,10.49894 10.517622,10.499802 0 0 0 10.51675,10.50197 10.517622,10.499802 0 0 0 10.51676,-10.50197 10.517622,10.499802 0 0 0 -10.51676,-10.49894 z"
+           id="path4262-1-2"
+           inkscape:connector-curvature="0" />
+        <path
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           d="m 392.98911,190.29968 a 10.517622,10.499802 0 0 0 -10.51674,10.49894 10.517622,10.499802 0 0 0 10.51674,10.50197 10.517622,10.499802 0 0 0 10.51677,-10.50197 10.517622,10.499802 0 0 0 -10.51677,-10.49894 z"
+           id="path4262-8-8-0"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5621"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion5623"><rect
+           id="rect5625"
+           width="129.28572"
+           height="204.28572"
+           x="35"
+           y="125" /></flowRegion><flowPara
+         id="flowPara5627"></flowPara></flowRoot>  </g>
+</svg>
